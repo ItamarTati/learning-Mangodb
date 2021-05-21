@@ -20,7 +20,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.8.0",
-    "postcss": "^7.0.24",
+    "postcss": "^8.2.10",
     "postcss-use": "^3.0.0"
   }
 }
